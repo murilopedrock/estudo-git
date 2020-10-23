@@ -1,1 +1,2 @@
 Aprendendo Git com a RocketSeat e com o Diego
+Alteração feita direto no Github.
